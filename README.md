@@ -1,4 +1,3 @@
-<p style="text-align: center;">Text_content</p>
 # Hi 👋, I'm Surya
 ## A passionate Data Engineer from India
 # 💻 Tech Stack:
