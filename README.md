@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-<h1 align="center">I'm Surya</h1>
+<h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">A Data Engineer from India</h3>
 
 # 💻 Tech Stack:
